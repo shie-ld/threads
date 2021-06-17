@@ -5,10 +5,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<<<<<<< Updated upstream
+
 A java like implementation of posix threads encapsulated cleanly in a single C++ class.
-=======
->>>>>>> Stashed changes
 
 
 <!-- PROJECT LOGO -->
