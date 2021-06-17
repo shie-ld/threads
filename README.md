@@ -96,7 +96,7 @@ make
 <!-- DOCUMENTATION -->
 ## Documentation
 
-See the [docs](./docs).
+See the [docs](./docs/docs.md).
 
 <!-- ROADMAP -->
 ## Roadmap
