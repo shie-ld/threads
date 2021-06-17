@@ -1,6 +1,6 @@
 # threads
 
-Example code from my Java Style Threads Class in C++ blog.
+A java like implementation of posix threads encapsulated cleanly in a single C++ class.
 
 ## Build
 
